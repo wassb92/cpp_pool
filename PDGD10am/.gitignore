@@ -1,0 +1,15 @@
+.vscode
+*/.vscode
+day/**/.vscode
+*/*.o
+*.o
+day/**/*.o
+*/a.out
+day/**/a.out
+*.zip
+a.out
+main.*
+!/tests/*
+libstring.a
+output*
+!/tests/*

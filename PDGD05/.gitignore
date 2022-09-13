@@ -1,0 +1,13 @@
+.vscode
+*/.vscode
+day/**/.vscode
+*/*.o
+*.o
+ex00
+day/**/*.o
+*/a.out
+day/**/a.out
+*.zip
+a.out
+main.c
+libstring.a

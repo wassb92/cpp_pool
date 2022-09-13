@@ -1,0 +1,9 @@
+.vscode
+*/.vscode
+day/**/.vscode
+*/*.o
+day/**/*.o
+*/a.out
+day/**/a.out
+*.zip
+a.out

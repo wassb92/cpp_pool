@@ -1,0 +1,8 @@
+.vscode
+*/.vscode
+day/**/.vscode
+*/*.o
+day/**/*.o
+*/a.out
+day/**/a.out
+*/*.h

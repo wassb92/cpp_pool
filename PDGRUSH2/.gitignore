@@ -1,0 +1,9 @@
+.vscode
+*/.vscode
+*/*.o
+*.o
+*/a.out
+*.zip
+a.out
+main.c
+ex*

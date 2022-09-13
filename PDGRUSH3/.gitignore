@@ -1,0 +1,16 @@
+.vscode
+*/.vscode
+day/**/.vscode
+*/*.o
+*.o
+day/**/*.o
+*/a.out
+*/GKrellM
+GKrellM
+day/**/a.out
+*.zip
+a.out
+libstring.a
+output*
+*.txt
+MyGKrellm
